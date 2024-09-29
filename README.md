@@ -5,6 +5,7 @@
 ## Executive Summary
 
 This report provides an analysis of customer churn based on various factors such as contract type, monthly charges, tenure, and paperless billing. The goal of this analysis is to identify key drivers of churn and provide actionable insights to improve customer retention.
+![image](https://github.com/user-attachments/assets/2f3b3fc3-af0f-4f9a-bf00-ab6c5445dde6)
 
 ---
 
@@ -17,6 +18,9 @@ This report provides an analysis of customer churn based on various factors such
 ### 2. Churn by Monthly Charges
 **Overview:**  
 - Customers with **higher monthly charges** (above \$70) have a higher likelihood of churning compared to those with lower monthly charges. This could be due to dissatisfaction with the perceived value of services relative to cost.
+
+![image](https://github.com/user-attachments/assets/e2d4b56b-e86c-448a-af0c-48824181b7d9)
+
 
 
 ### 3. Churn by Tenure
@@ -32,6 +36,9 @@ This report provides an analysis of customer churn based on various factors such
 ### 5. Churn Summary
 **Overview:**  
 - Customers who churn have **higher average monthly charges** (\$74.44 vs. \$61.26), shorter tenures (18 months vs. 38 months), and lower total charges (\$1531 vs. \$2555). These metrics show that churn is concentrated among newer, high-paying customers.
+
+  ![image](https://github.com/user-attachments/assets/041117fc-8b10-4812-a1fb-d2661cd8257b)
+
 
 ---
 
